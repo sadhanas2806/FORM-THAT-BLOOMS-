@@ -1,0 +1,71 @@
+body{
+
+    background-image: url();
+    background-image: url(https://i.pinimg.com/originals/70/e8/95/70e8957ec64793bcf30f0666c7c0b96e.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    justify-content: center;
+    color: rgb(250, 231, 252);
+
+}
+h1{
+    font-size: 300%;
+    color: rgb(250, 248, 246);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+font-size: 150%;
+color: rgb(250, 231, 252);
+}
+.upload{
+    width: 100px;
+    height:40px;
+    border: 1px solid rgb(228, 228, 230);
+    border-radius: 8%;
+    transition-duration: 0.4s;
+    cursor: pointer;
+   
+}
+.upload:hover {
+    background-color: #ec9fad; /* Green */
+    color: white;
+}
+.submit{
+    width: 100px;
+    height:40px;
+    border: 1px solid rgb(228, 228, 230);
+    border-radius: 8%;
+    transition-duration: 0.4s;
+    cursor: pointer;
+   
+}
+.submit:hover {
+    background-color: #ec9fad; /* Green */
+    color: white;
+
+}
+
+.form1
+{
+    background-color: black;
+    width: 35%;
+    opacity: .5;
+    color: rgb(250, 231, 252);
+    position: absolute;
+    top: 18%;
+    left: 30%;
+  
+}
+.form2
+{
+    background-color: black;
+    width: 35%;
+    color: rgb(250, 231, 252);
+    opacity: .5;
+    position: absolute;
+    top: 75%;
+    left: 30%;
+    
+}
